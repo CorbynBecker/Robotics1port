@@ -6,3 +6,6 @@ A Part of team 1
 
 **Goal**
 To make a robot that includes a 2 speed transmission and speed
+
+Chassi
+!{chassi1}(https://github.com/CorbynBecker/Robotics1port/blob/main/images/chassi1.jpeg)
